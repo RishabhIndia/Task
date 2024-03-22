@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+h1{
+    font-size: 3rem;
+    margin-bottom: 5%;
+}
+section{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 8%;
+    margin-left: 8%;
+   
+}
+.bgcolor{
+    background-color: burlywood;
+    padding: 30px;
+    margin-right: 26%;
+}
+section div img{
+    margin-bottom: 5%;
+}
